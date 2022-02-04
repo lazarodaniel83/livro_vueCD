@@ -1,0 +1,16 @@
+#1 O metodo data manipula os atribitos que tem um componente,       atraves de um retorno dessas variaves de alteração ou recarregadas instantaneamente nos observadores do componetes App.
+
+#2 As diretivas são tags especias "v-" de dentro do universo Vue que atua no html atraves do data no App.
+
+#3a v-once = diretiva que uma reatividade em um elemento da template
+#b  v-if = diretiva controladora de fluxo, se segui caminho x ou 'y.
+#c  v-v-for = diretiva que percorre uma array do tipo data
+#d  v-model = diretivas que coleta dados digitado pelo usuario junto com input.
+#e  v-text = direyiva que imprime um valor como texto do elemento HTML indicado, pode ser trocado pela interpolações do Mustache {{}}.
+#f  v-bind : diretiva que mapea os atributos html ou personalizados e assim alterar valores com alguma condicao 
+#g  v-on @ = diretiva com a capacidade de invocar um evento atraves de uma escuta para os elementos da tela ou data. 
+#
+#
+#
+#
+#
